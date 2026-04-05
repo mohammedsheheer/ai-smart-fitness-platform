@@ -40,6 +40,11 @@ docker-compose up -d
 # Backend API: http://localhost:5000/api
 ```
 
+## Team
+Jaswanth Ram
+Mohammed Sheheer K U
+Siva Surya Prasad
+
 ## Environment Variables
 
 Copy `.env.example` to `.env` and configure (see docs in respective folders).
