@@ -41,9 +41,9 @@ docker-compose up -d
 ```
 
 ## Team
-Jaswanth Ram
-Mohammed Sheheer K U
-Siva Surya Prasad
+Jaswanth Ram   
+Mohammed Sheheer K U   
+Siva Surya Prasad   
 
 ## Environment Variables
 
